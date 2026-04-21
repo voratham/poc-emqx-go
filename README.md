@@ -17,3 +17,7 @@ go run main.go
 <img src="screenshot2.png" alt="EMQX Dashboard" width="600"/>
 
 
+
+
+### Reference
+- https://docs.emqx.com/en/emqx/latest/connect-emqx/go.html
